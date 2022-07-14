@@ -1,0 +1,5 @@
+manifest_version: 1
+name: RemoveEmbeddingsExecutor
+description: RemoveEmbeddingExecutor deletes the embedding attribute of documents and matches to avoid returning them in API responses.
+url: https://github.com/freddyheppell/executor-remove-embeddings
+keywords: ['embedding', 'cleaning', 'api', 'optimize']
